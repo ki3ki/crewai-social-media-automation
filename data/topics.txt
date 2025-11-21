@@ -1,0 +1,8 @@
+Python tips for beginners
+Writing clean functions
+Debugging 101
+How to start with Django
+Testing your code
+Time management for devs
+Preparing for technical interviews
+Working with APIs
